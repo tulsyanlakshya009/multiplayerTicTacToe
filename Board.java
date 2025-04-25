@@ -13,7 +13,7 @@ import java.util.Scanner;
 * It displays the client board, and performing all the functions of Client.
 * This class sends all the functions performed by the client to the server.
 * 
-* @author Lakshya Tulsyan 3036087389
+* @author Lakshya Tulsyan 
 * @version 1.0
 * @since 9-12-2023
 * 
